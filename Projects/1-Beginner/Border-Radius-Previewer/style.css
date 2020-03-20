@@ -1,0 +1,23 @@
+.flex-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.container-box {
+    background-color: yellow;
+    height: 300px;
+}
+  
+.border {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+  }
+.container-options {
+  width: 200px;
+  height: 200px;
+  text-align: left;;
+}
